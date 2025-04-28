@@ -1,1 +1,1 @@
-# Ecommerce-Front-End-
+This E-commerce Website is a project I built to practice and improve my frontend web development skills. It’s a fully responsive website made with HTML, CSS, and JavaScript. The site includes several pages like the Homepage, Product Page, Product Category Page, Sign-Up Page, Login Page, and Cart Page. The goal was to create a clean, user-friendly shopping experience that works well on all devices
